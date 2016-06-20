@@ -17,7 +17,7 @@ var person = {
     color: "none",
     engine: {
       model: "don't have one",
-      weight: 0,
+      weight: 200,
       weightType: 'metric'
     }
   }
